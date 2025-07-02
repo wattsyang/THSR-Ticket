@@ -3,7 +3,7 @@ import random
 import time
 from typing import List, Union
 
-import numpy as np  # type: ignore
+import numpy as np # pip3 install numpy # type: ignore
 import matplotlib.pyplot as plt  # type: ignore
 from PIL import Image, ImageFont
 from PIL.ImageDraw import Draw  # type: ignore

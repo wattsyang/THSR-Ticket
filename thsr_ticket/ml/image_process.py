@@ -1,6 +1,6 @@
 import cv2
 import imutils
-import numpy as np
+import numpy as np # pip3 install numpy
 import matplotlib.pyplot as plt
 
 from sklearn.linear_model import Ridge
